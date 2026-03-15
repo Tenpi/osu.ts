@@ -1,6 +1,6 @@
 {
   "name": "osu.ts",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Wrapper for the osu! API with typings",
   "main": "dist/osu.js",
   "types": "dist/osu.d.ts",
@@ -20,9 +20,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Moebytes/osu.ts"
+    "url": "https://github.com/Moestash/osu.ts"
   },
-  "author": "Moebytes",
+  "author": "Moestash",
   "license": "MIT",
   "devDependencies": {
     "@types/chai": "^4.2.3",

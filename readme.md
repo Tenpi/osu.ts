@@ -1,6 +1,6 @@
 <div align="left">
   <p>
-    <a href="https://moebytes.github.io/osu.ts/"><img src="https://raw.githubusercontent.com/Moebytes/osu.ts/master/images/osu.tslogo.gif" width="500" /></a>
+    <a href="https://moestash.github.io/osu.ts/"><img src="https://raw.githubusercontent.com/Moestash/osu.ts/master/images/osu.tslogo.gif" width="500" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/osu.ts/"><img src="https://nodei.co/npm/osu.ts.png" /></a>
@@ -16,7 +16,7 @@ npm install osu.ts
 ```
 
 ### Useful Links
-- [**Osu.ts Documentation**](https://moebytes.github.io/osu.ts/)
+- [**Osu.ts Documentation**](https://moestash.github.io/osu.ts/)
 - [**Osu Api Wiki**](https://github.com/ppy/osu-api/wiki)
 
 ### Getting Started
